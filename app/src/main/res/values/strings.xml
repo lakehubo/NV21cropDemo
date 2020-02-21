@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NV21cropDemo</string>
+    <string name="permission_denied">permission denied!</string>
+</resources>
